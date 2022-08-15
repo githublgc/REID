@@ -1,0 +1,5 @@
+REID:
+https://github.com/qiaoguan/Person-reid-GAN-pytorch
+数据集Market1501
+图像生成：
+https://github.com/layumi/DCGAN-tensorflow
